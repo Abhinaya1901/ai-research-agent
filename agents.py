@@ -1,3 +1,4 @@
+# Agents are handled directly in app.py for cloud deployment
 from crewai import Agent, LLM
 from dotenv import load_dotenv
 import os
