@@ -1,5 +1,9 @@
 # 🧬 AI Clinical Trial Intelligence Platform
 
+🔗 **Live Demo:** [Click here to try the app](https://ai-research-agent-hnmtmjaansskxulryvnquf.streamlit.app)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-research-agent-hnmtmjaansskxulryvnquf.streamlit.app)
+
 An autonomous multi-agent AI system that researches clinical trials, 
 analyzes data, and generates professional PDF reports automatically.
 
